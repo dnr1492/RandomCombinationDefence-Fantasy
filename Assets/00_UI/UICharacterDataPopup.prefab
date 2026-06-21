@@ -3898,13 +3898,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   uiCharacter: {fileID: 0}
   uiGold: {fileID: 0}
-  bgCharacter: {fileID: 7512576392197113812}
-  bgCharacterOutline: {fileID: 6077657641093916954}
   imgCharacter: {fileID: 6406917255552080234}
   imgQuantity: {fileID: 4544832078540876483}
   txtQuantity: {fileID: 4544832080020142077}
   txtCurLevel: {fileID: 4544832079290118848}
-  txtClassType: {fileID: 4544832079157214911}
   txtDisplayName: {fileID: 4544832078416169869}
   txtStatsDamage: {fileID: 4544832078825240669}
   txtStatsAttackSpeed: {fileID: 4544832079971374866}
